@@ -2,9 +2,13 @@
 In this project I have automated a website's webform and uploaded an image.After successful submission,asserted the submission with a successful message using Selenium and JUnit.
 
 1. Input following fields:
-   ``Firstname``, Lastname, UserEmail, Gender,Phone NUmber, Date of Birth, Subject, Hobby, Upload Image, Address, State.
+   ``Firstname``, ``Lastname``, ``UserEmail``
+   ``Gender``,``Phone NUmber``, ``Date of Birth``
+   ``Subject``,`` Hobby``, ``Upload Image``
+   ``Address``, ``State``
 3. Then click on submit button
 4. Finally, Assert that form submitted.
+   
 ### Prerequisites
 - IntelliJ
 - Selenium
